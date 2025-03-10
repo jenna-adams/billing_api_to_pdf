@@ -5,7 +5,7 @@ This script is here to help you quickly generate a **Billing Summary Report** in
 **Disclaimer:**  
 This is a small side project meant to give you a head start on working with the **Billing Usage API** and generating billing summary reports. It's a starting point, so feel free to tweak, customize, and extend it to fit your specific needs. 
 
-You can find more detailed documentation for the **[Billing Usage API](https://dev.eleostech.com/platform/platform.html#tag/Billable-Usage)**.
+Find more detailed documentation for the **[Billing Usage API](https://dev.eleostech.com/platform/platform.html#tag/Billable-Usage)**.
 
 ## What it Does
 
